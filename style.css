@@ -275,6 +275,8 @@ a:hover {
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
+    padding-bottom: 30px;
+    padding-top: 10px;
 }
 
 .row.row-no-gutters > [class^="col-"],
