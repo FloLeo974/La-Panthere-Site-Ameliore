@@ -364,6 +364,26 @@ a:hover {
     z-index: 2;
 }
 
+blockquote {
+    font-style: italic;
+    font-size: 22px;
+    font-stretch: condensed;
+    margin-bottom: 0;
+    border-left: none;
+    color: #333333;
+    width: 78%;
+    margin: 0 auto;
+    padding-bottom: 2px;
+    }
+
+  cite {
+    font-size: 18px;
+  }
+
+  #bloc-4-portfolio h2 {
+    width: 45%;
+  }
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -709,6 +729,9 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h3 {
@@ -863,6 +886,12 @@ h4 {
 }
 
 @media (max-width: 991px) {
+    h2{
+        width: 80%;
+    }
+    #bloc-4-portfolio h2 {
+        width: 60%;
+      }
     .container {
         width: 100%;
     }
@@ -892,6 +921,12 @@ h4 {
 }
 
 @media (max-width: 767px) {
+    h2{
+        width: 100%;
+    }
+    #bloc-4-portfolio h2 {
+        width: 90%;
+      }
     .page-container {
         overflow-x: hidden;
         position: relative;
