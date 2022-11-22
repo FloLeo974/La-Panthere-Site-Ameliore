@@ -374,15 +374,19 @@ blockquote {
     width: 78%;
     margin: 0 auto;
     padding-bottom: 2px;
-    }
+}
 
-  cite {
+cite {
     font-size: 18px;
-  }
+}
 
-  #bloc-4-portfolio h2 {
+#bloc-4-portfolio h2 {
     width: 45%;
-  }
+}
+
+.social a {
+    font-size: 30px;
+}
 
 @media (min-width: 768px) {
     .site-navigation {
