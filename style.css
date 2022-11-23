@@ -413,11 +413,11 @@ cite {
 
 #form_1 button {
     color: #333333 !important;
-  }
+}
 
-  #form_1 button:hover {
+#form_1 button:hover {
     color: white !important;
-  }
+}
 
 .social a {
     font-size: 30px;
